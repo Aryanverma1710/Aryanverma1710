@@ -2,12 +2,9 @@ Hi 👋 My name is Aryan Verma
 ============================
 
 Full Stack Developer
-====================
+--------------------
 
-#Right\_Choice&High\_Approaches🤝. 
-
-I'm currently serving as a Community Moderator for Devsnest and fighting with DSA to remove my nightmares and endless nights. I worked as a Campus Ambassador for IIT, Bombay. And hopefully, I'll get more opportunities to work with amazing personalities. Always open to learning new technologies and languages and want to work as an SDE in big Tech\_Giants or Startup, including AI and Machine Learning.
-
+#Right\_Choice&High\_Approaches🤝. I'm currently serving as a Community Moderator for Devsnest and fighting with DSA to remove my nightmares and endless nights. I worked as a Campus Ambassador for IIT, Bombay. And hopefully, I'll get more opportunities to work with amazing personalities. Always open to learning new technologies and languages and want to work as an SDE in big Tech\_Giants or Startup, including AI and Machine Learning.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [Expertakv03@gmail.com](mailto:Expertakv03@gmail.com)
