@@ -16,7 +16,7 @@ I worked as a Campus Ambassador for IIT, Bombay. And hopefully, I'll get more op
 <h3 align="left"> About me: </h3>
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [Expertakv03@gmail.com](mailto:Expertakv03@gmail.com)
+* ✉️  You can contact me at [aryan.verma.dev@gmail.com](mailto:aryan.verma.dev@gmail.com)
 * 🧠  I'm learning Python and SQL
 * 🤝  I'm open to collaborating on Blockchain and Machine Learning
 * ⚡  I'm Working on Top Secret Project
