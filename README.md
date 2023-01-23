@@ -1,14 +1,17 @@
-Hi 👋, I'm Aryan Verma
-============================
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
-Full Stack Developer
---------------------
 
-#Right\_Choice&High\_Approaches🤝. 
+<h1 align="center">Hi 👋, I'm Aryan Verma </h1>
+
+<h3 align="left">Full Stack Developer</h3>
+
+<h3 style="margin-top=70px">#Right_Choice&High_Approaches🤝.</h3>
 
 I'm currently serving as a Community Moderator for Devsnest and fighting with DSA to remove my nightmares and endless nights. 
 
 I worked as a Campus Ambassador for IIT, Bombay. And hopefully, I'll get more opportunities to work with amazing personalities. Always open to learning new technologies and languages and want to work as an SDE in big Tech\_Giants or Startup, including AI and Machine Learning.
+
+<img height=320px width=500px align = "right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/> 
 
 <h3 align="left"> About me: </h3>
 
