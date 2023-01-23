@@ -11,7 +11,7 @@ I'm currently serving as a Community Moderator for Devsnest and fighting with DS
 
 I worked as a Campus Ambassador for IIT, Bombay. And hopefully, I'll get more opportunities to work with amazing personalities. Always open to learning new technologies and languages and want to work as an SDE in big Tech\_Giants or Startup, including AI and Machine Learning.
 
-<img height=320px width=500px align = "right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/> 
+<img height=250px width=400px align = "right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/> 
 
 <h3 align="left"> About me: </h3>
 
