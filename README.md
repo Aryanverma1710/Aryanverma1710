@@ -37,9 +37,7 @@ src="https://img.shields.io/github/followers/Aryanverma1710?logo=github&style=fo
 
 ### Socials
 
-<p align="left"> 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          </p>
+<p align="left"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></p>
 
 ### Badges
 
