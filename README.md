@@ -18,6 +18,7 @@ I worked as a Campus Ambassador for IIT, Bombay. And hopefully, I'll get more op
 
 <a href="https://www.github.com/Aryanverma1710" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aryanverma1710?logo=github&style=for-the-badge&color=f97316&labelColor=27272a" /></a>
+<a href = "https://www.github.com/Aryanverma1710" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/github/forks/:user/:repo?label=Fork"/></a>
 
 ### Skills
 
