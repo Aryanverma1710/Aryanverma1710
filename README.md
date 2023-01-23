@@ -97,11 +97,10 @@ src="https://img.shields.io/github/followers/Aryanverma1710?logo=github&style=fo
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://dev.to/aryanverma1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aryanverma1710" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryan-verma1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-verma1710" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/@aryan-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="@aryan-verma" height="30" width="40" /></a>
-<a href="https://hashnode.com/@akv1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@akv1710" height="30" width="40" /></a>
-<a href="https://medium.com/@expertakv03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@expertakv03" height="30" width="40" /></a>
+<a href="https://dev.to/aryanverma1710" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aryan-verma1710" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/@aryan-verma" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" height="30" width="40" /></a>
+<a href="https://medium.com/@expertakv03" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="@expertakv03" height="30" width="40" /></a>
 </p>
 
 ### Badges
@@ -111,7 +110,5 @@ src="https://img.shields.io/github/followers/Aryanverma1710?logo=github&style=fo
 <a href="http://www.github.com/Aryanverma1710"><img src="https://github-readme-stats.vercel.app/api?username=Aryanverma1710&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="Aryanverma1710's GitHub stats" /></a>
 
 <a href="http://www.github.com/Aryanverma1710"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanverma1710&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Aryanverma1710"><img src="https://activity-graph.herokuapp.com/graph?username=Aryanverma1710&bg_color=27272a&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Aryanverma1710" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanverma1710&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
