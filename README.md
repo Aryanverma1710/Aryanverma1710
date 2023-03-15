@@ -21,9 +21,15 @@ I worked as a Campus Ambassador for IIT, Bombay. And hopefully, I'll get more op
 * 🤝  I'm open to collaborating on Blockchain and Machine Learning
 * ⚡  I'm Working on Top Secret Project
 
-<a href="https://www.github.com/Aryanverma1710" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Aryanverma1710?logo=github&style=for-the-badge&color=f97316&labelColor=27272a" /></a>
-<a href = "https://www.github.com/Aryanverma1710" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/github/forks/:user/:repo?label=Fork"/></a>
+<a href="https://www.github.com/Aryanverma1710">
+<img src="https://img.shields.io/github/followers/Aryanverma1710?style=flat&logo=appveyor&color=bfdbfe&labelColor=1e3a8a&logoColor=bfdbfe&label=Followers&pretty=true" />
+</a>
+<a href="https://github.com/Aryanverma1710/Radio">
+    <img src="https://img.shields.io/github/forks/Aryanverma1710/Radio.svg?style=social"/>
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Aryanverma1710&label=Profile%20Views&color=3&icon=0&pretty=true" />
+</a>
 
 <h3 align="left"> Languages and Tools:</h3>
 
